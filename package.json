@@ -1,6 +1,17 @@
 {
   "name": "fetch-client",
   "version": "0.0.1",
+  "description": "A http client based on Fetch API.",
+  "homepage": "https://github.com/yifeic/fetch-client",
+  "license" : "MIT",
+  "author": {
+    "name": "yifeic",
+    "email": "yifei.chen@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yifeic/fetch-client.git"
+  },
   "private": true,
   "main": "./fetch-client.js",
   "dependencies": {

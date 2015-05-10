@@ -3,7 +3,7 @@
 A http client based on Fetch API.
 
 ## How To
-```
+```javascript
 var Fetch = require('fetch-client');
 
 var headers = {}; //default headers for all requests

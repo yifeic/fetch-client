@@ -1,0 +1,11 @@
+{
+  "name": "fetch-client",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./fetch-client.js",
+  "dependencies": {
+    "url": "~0.10.3",
+    "base-64": "~0.1.0",
+    "querystring": "~0.2.0"
+  }
+}

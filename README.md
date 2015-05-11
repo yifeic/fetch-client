@@ -1,6 +1,6 @@
 # fetch-client
 
-A http client based on Fetch API.
+An http client based on Fetch API.
 
 ## How To
 ```javascript

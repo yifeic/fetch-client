@@ -22,7 +22,7 @@ fetchClient.GET('p/at/h', params) // also returns a promise
 
 //set Basic Authorization header
 var username = 'hello';
-var password = '123;
+var password = '123';
 fetchClient.setBasicAuthorizationHeader(username, password);
 
 //set header field
